@@ -1,0 +1,9 @@
+.UserManageBox {
+  padding: 20px;
+}
+.UserManageBox .UserFormBox {
+  padding: 20px;
+  background: #fff;
+  border-radius: 4px;
+  border: 1px solid #EBEEF5;
+}
